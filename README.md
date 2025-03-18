@@ -1,1 +1,1 @@
-# myfirst_repo
+# https://github.com/yourusername/myfirst-repo.git
